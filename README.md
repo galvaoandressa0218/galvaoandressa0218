@@ -1,4 +1,4 @@
-[## Hello world, I'm Andressa!
+## Hello world, I'm Andressa!
 
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
@@ -16,20 +16,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<br>
 
 **Bibliotecas e Frameworks**
 
-<br>
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<br>
 
 **Banco de Dados**
 
-<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-<br>
+
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -45,4 +41,3 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-galvão-983938232/)](https://www.linkedin.com/in/andressa-galvão-983938232/)
-](https://www.linkedin.com/in/andressa-galvão-983938232/)
